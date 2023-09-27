@@ -1,0 +1,123 @@
+{
+    "etag": "ae89eb909d51f570d2f89cdb615955c8c700fed7",
+    "data": {
+        "offset": 0,
+        "limit": 1,
+        "total": 5,
+        "count": 1,
+        "results": [
+            {
+                "id": 1009718,
+                "name": "Wolverine",
+                "description": "Born with super-human senses and the power to heal from almost any wound, Wolverine was captured by a secret Canadian organization and given an unbreakable skeleton and claws. Treated like an animal, it took years for him to control himself. Now, he's a premiere member of both the X-Men and the Avengers.",
+                "modified": "2016-05-02T12:21:44-0400",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/537bcaef0f6cf",
+                    "extension": "jpg"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+                "comics": {
+                    "available": 2594,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009718/comics",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41113",
+                            "name": "5 Ronin (Hardcover)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43501",
+                            "name": "A+X (2012) #4"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24222",
+                            "name": "Agents of Atlas (2009) #5 (MCGUINNESS VARIANT)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/66661",
+                            "name": "Agents of Atlas: The Complete Collection Vol. 1 (Trade Paperback)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12671",
+                            "name": "Alpha Flight (1983) #13"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "series": {
+                    "available": 706,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009718/series",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12429",
+                            "name": "5 Ronin (2010)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15276",
+                            "name": "5 Ronin (2011)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/14818",
+                            "name": "Annihilators: Earthfall (2011)"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9792",
+                            "name": "Astonishing Spider-Man & Wolverine (2010 - 2011)"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "stories": {
+                    "available": 3602,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009718/stories",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/477",
+                            "name": "Cover #477",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/736",
+                            "name": "Uncanny X-Men (1963) #456",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/737",
+                            "name": "2 of 5 - Savage Land",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "events": {
+                    "available": 42,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009718/events",
+                    "items": [
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+                            "name": "Acts of Vengeance!"
+                        },
+                        {
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/317",
+                            "name": "Inhumanity"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/characters/1009718/wolverine?utm_campaign=apiRef&utm_source=9aa8dd02ef9a7d6fddd06844aacdb8a3"
+                    },
+                    {
+                        "type": "wiki",
+                        "url": "http://marvel.com/universe/Wolverine_(James_Howlett)?utm_campaign=apiRef&utm_source=9aa8dd02ef9a7d6fddd06844aacdb8a3"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1009718/wolverine?utm_campaign=apiRef&utm_source=9aa8dd02ef9a7d6fddd06844aacdb8a3"
+                    }
+                ]
+            }
+        ]
+    }
+}

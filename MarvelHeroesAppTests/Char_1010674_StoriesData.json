@@ -1,0 +1,142 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2023 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2023 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2023 MARVEL</a>",
+  "etag": "31d7014c37e6f83d85cf29a2e53ab905e265e0ce",
+  "data": {
+    "offset": 0,
+    "limit": 2,
+    "total": 9,
+    "count": 2,
+    "results": [
+      {
+        "id": 6285,
+        "title": "Cover #6285",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6285",
+        "type": "cover",
+        "modified": "2016-03-07T14:08:12-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/6285/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1148",
+              "name": "Brett Booth",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/6285/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010674",
+              "name": "Anita Blake"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010706",
+              "name": "Nicolaos"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/6285/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1152",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006 - 2008)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/6285/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/5745",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006) #3"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/6285/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/5745",
+          "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006) #3"
+        }
+      },
+      {
+        "id": 7932,
+        "title": "Cover #7932",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7932",
+        "type": "cover",
+        "modified": "2016-03-07T14:16:12-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/7932/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/7932/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010674",
+              "name": "Anita Blake"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/7932/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1152",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006 - 2008)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/7932/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/6143",
+              "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006) #6"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/7932/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/6143",
+          "name": "Anita Blake, Vampire Hunter: Guilty Pleasures (2006) #6"
+        }
+      }
+    ]
+  }
+}
